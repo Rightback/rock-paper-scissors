@@ -4,3 +4,4 @@ check new auto deploy
 #!/bin/bash
 git branch -a
 git checkout develop
+This is a test file to check new auto deploy
