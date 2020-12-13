@@ -1,3 +1,6 @@
 This is a test file to check new auto deploy
 Check
- check new auto deploy
+check new auto deploy
+#!/bin/bash
+git branch -a
+git checkout develop
